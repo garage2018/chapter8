@@ -12,7 +12,7 @@
 <head>
     <title>Through web flow</title>
 </head>
-<body>
+<body background="red">
 <h2>this is fookin webflow</h2>
 
 </body>
